@@ -1,0 +1,32 @@
+{
+  "name": "node.js-pagination-middleware",
+  "version": "1.0.0",
+  "description": "middleware that handles pagination",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixtusiwuchukwu/node.js-pagination-middleware.git"
+  },
+  "keywords": [
+    "middleware",
+    "pagination",
+    "node.js",
+    "javascript",
+    "slice"
+  ],
+  "author": "sixtus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixtusiwuchukwu/node.js-pagination-middleware/issues"
+  },
+  "homepage": "https://github.com/sixtusiwuchukwu/node.js-pagination-middleware#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.8",
+    "nodemon": "^2.0.4"
+  }
+}
